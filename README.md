@@ -12,9 +12,11 @@ Data Exploration:
 
 Understanding the structure and size of the dataset.
 Analyzing the distribution of different attributes such as title, genre, release year, etc.
+
 Visualization:
 
-Creating visual representations of the data using tools like Seaborn.
+Creating visual representations of the data using libraries like Seaborn.
 Highlighting trends and patterns in the Netflix catalog.
+
 The project employs Python for data manipulation and visualization, utilizing libraries such as Pandas and Seaborn.
 
