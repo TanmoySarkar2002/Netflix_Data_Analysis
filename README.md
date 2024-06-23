@@ -1,4 +1,4 @@
-# Ott_Data_Analysis
+# Netflix_Data_Analysis
 
 This project involves analyzing a Netflix dataset to extract meaningful insights and patterns. The main objectives include:
 
