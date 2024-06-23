@@ -7,6 +7,7 @@ Data Cleaning:
 
 Identifying and removing duplicate records.
 Handling missing values in the dataset.
+
 Data Exploration:
 
 Understanding the structure and size of the dataset.
